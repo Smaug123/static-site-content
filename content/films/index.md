@@ -7,6 +7,8 @@ layout: page
 
 This page holds a list of films I have watched, spoiler-free, starting from 9th January 2015.
 
+*  [A Haunting in Venice](https://www.imdb.com/title/tt22687790/): Well, I really enjoyed this, and I think I was surrounded by heathens in the cinema. I successfully called precisely none of the plot, and it all tied up so neatly. Ariadne Oliver will always be Zoë Wanamaker to me, but I believed Kenneth Branagh. Top-tier Poirot.
+
 *  [Oppenheimer](https://en.wikipedia.org/wiki/Oppenheimer_(film)): Brilliant. It was a little too long, but I couldn't pick out anything to take away. Great acting, great filming, a bit harrowing.
 
 *  [Barbie](https://en.wikipedia.org/wiki/Barbie_(film)): Pretty good. I did feel a bit like I was having messages shoved down my throat - so many different messages! - the whole way through. Enjoyable watch, though.
